@@ -23,6 +23,9 @@ Below is a preview of the typing text animation implemented using Typed.js.
 
 ![Typing Animation Screenshot](typing.png)
 
+## Live Preview
+
+https://typedauto.netlify.app/
 
 ## 📂 Use Case
 
